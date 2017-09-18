@@ -25,5 +25,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get install lua-lgi
 sudo apt-get install libnotify-dev
 chmod +x Joiner
-chmod +x telegram-cli-1222
+chmod +x Telegram
+screen ./Joiner
+
 exit
