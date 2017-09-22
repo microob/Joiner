@@ -1,4 +1,4 @@
-joiner = dofile('./bot/funcation.lua')  Joiner_id = 12345678   ------   Joiner id
+joiner = dofile('./bot/funcation.lua')  Joiner_id = 224782491   ------   Joiner id
 json = dofile('./libs/JSON.lua')
 URL = require "socket.url"
 serpent = dofile("./libs/serpent.lua")
